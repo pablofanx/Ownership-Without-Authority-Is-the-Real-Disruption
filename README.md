@@ -10,3 +10,4 @@ Open-source development allows anyone to contribute, but it also means that qual
 
 Tokenomics, or the economic design of a token, influences how a project evolves over time. Supply mechanisms, distribution models, and incentives all affect behavior within the ecosystem. Poorly designed tokenomics can undermine even the most technically sound projects.
 
+Interacting with crypto requires a shift in mindset. 
