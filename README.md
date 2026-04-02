@@ -4,3 +4,5 @@ Transparency is one of the strengths of blockchain technology. Transactions are 
 This level of openness creates opportunities for data-driven insights, but it also requires interpretation. Raw data does not always tell the full story without context.
 
 Scalability remains a challenge for many blockchain networks. As usage increases, systems must handle more transactions without slowing down or increasing costs excessively. Solutions such as rollups and sidechains aim to address this, enabling networks to support larger user bases.
+
+The role of developers in crypto cannot be overstated. 
